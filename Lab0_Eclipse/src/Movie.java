@@ -1,6 +1,6 @@
 /******
 Name: Andrew Jenson
-Assignment: Lab 0 - Getting Started
+Assignment: Lab 0 - Getting Started in Java
 Date: January 21, 2024
 Notes: This class represents a movie. A movie has a title, a director, and a year of release.
 ******/
@@ -24,7 +24,7 @@ public class Movie {
 	private int yearOfRelease;
 
 	/**
-	 * Construct a Movie object that has the provided title, director and star rating.
+	 * Construct a Movie object that has the provided title, director, and a year of release.
 	 *
 	 * @param title         the title to be given to this movie
 	 * @param director      the director of this movie

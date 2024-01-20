@@ -1,6 +1,6 @@
 /******
 Name: Andrew Jenson
-Assignment: Lab 0 - Getting Started
+Assignment: Lab 0 - Getting Started in Java
 Date: January 21, 2024
 Notes: This class represents a person. A person has a first name, last name, and year of birth.
 ******/
